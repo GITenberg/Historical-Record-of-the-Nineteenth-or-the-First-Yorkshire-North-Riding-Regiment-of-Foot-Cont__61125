@@ -1,0 +1,29 @@
+_repo: Historical-Record-of-the-Nineteenth-or-the-First-Yorkshire-North-Riding-Regiment-of-Foot-Cont__61125
+_version: 0.0.1
+alternative_title: Historical Record of the 19th Foot
+creator:
+  author:
+    agent_name: Cannon, Richard
+    birthdate: 1779
+    deathdate: 1865
+    gutenberg_agent_id: '45414'
+    url: http://www.gutenberg.org/2009/agents/45414
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Cannon
+description: ''
+gutenberg_issued: '2020-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61125'
+  lccn: '00423113'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'UA'
+- !lcsh 'Great Britain. Army. Green Howards'
+- GITenberg
+title: "Historical Record of the Nineteenth, or the First Yorkshire North Riding Regiment\
+  \ of Foot\r\nContaining an account of the formation of the regiment in 1688, and\
+  \ of its subsequent services to 1848"
+url: http://www.gutenberg.org/ebooks/61125
